@@ -1,72 +1,28 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Latin OCR for Tesseract</title>
-  <meta name="description" content="Latin OCR for Tesseract">
-  <meta name="author" content="Ryan Baumann">
-  <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=EB+Garamond'>
-  <style type="text/css">
-    h1, h2, h3, h4 {
-      font-family:'Palatino', 'EB Garamond', serif;
-    }
-    body {
-      font-family:'EB Garamond', serif;
-      margin: 80px auto;
-      width: 720px;
-      line-height: 24px;
-    }
-    a {
-      color: black;
-      text-decoration: none;
-      border-bottom: 1px solid #ddd;
-    }
-    a:hover {
-      border-bottom: 1px solid black;
-    }
-  </style>
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-    ga('create', 'UA-32369790-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <script>
-    var trackOutboundLink = function(url) {
-       ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
-         function () {
-         document.location = url;
-         }
-       });
-    }
-  </script>
-</head>
-<body>
-  <section>
-    <h1>Latin OCR for Tesseract</h1>
-    <p>Latin OCR training data and tools for Tesseract, based on Nick White's <a href="http://ancientgreekocr.org/">Ancient Greek OCR for Tesseract</a>.</p>
-  </section>
-  <section>
-    <h2>Downloads</h2>
-    <p>TBA</p>
-    <p>Instructions: <a href="http://ryanfb.github.io/etc/2014/11/13/command_line_ocr_on_mac_os_x.html">OS X</a> / <a href="http://ancientgreekocr.org/linux.html">Linux</a> / <a href="http://ancientgreekocr.org/windows.html">Windows</a>
-  </section>
-  <section>
-    <h2>Code</h2>
-    <ul>
-      <li><a href="https://github.com/ryanfb/latinocr-lat">latinocr-lat</a> - The final training process for lat.traineddata. Includes results from latinocr-lattraining process.</li>
-      <li><a href="https://github.com/ryanfb/latinocr-lattraining">latinocr-lattraining</a> - Rules and tools to deterministically generate all prerequisites for the final training process.</li>
-      <li><a href="https://github.com/ryanfb/latinocr-lattestfodder">latinocr-lattestfodder</a> - Latin page scans and ground truth text for testing OCR accuracy.</li>
-    </ul>
-    <img src="training-repo-diagram.png" alt="Training Repo Diagram" title="Training Repo Diagram" width="100%"/>
-  </section>
-  <br/>
-  <section>
-    <h3>Contact</h3>
-    <a href="mailto:ryanfb@gmail.com">e-mail</a> / <a href="https://twitter.com/intent/tweet?text=%40ryanfb%20">twitter</a>
-  </section>
-</body>
-</html>
+---
+title: Latin OCR for Tesseract
+---
+<section>
+  <h1>Latin OCR for Tesseract<span style="float:right"><a href="https://ryanfb.github.io/" rel="author">ryanfb.github.io</a></span></h1>
+  <p>Latin OCR training data and tools for Tesseract, based on Nick White's <a href="http://ancientgreekocr.org/">Ancient Greek OCR for Tesseract</a>.</p>
+  <p><a href="{{ site.baseurl }}/resources.html">Development Resources</a></p>
+</section>
+<section>
+  <h2>Downloads</h2>
+  <p>TBA</p>
+  <p>Instructions: <a href="http://ryanfb.github.io/etc/2014/11/13/command_line_ocr_on_mac_os_x.html">OS X</a> / <a href="http://ancientgreekocr.org/linux.html">Linux</a> / <a href="http://ancientgreekocr.org/windows.html">Windows</a>
+</section>
+<section>
+  <h2>Code</h2>
+  <ul>
+    <li><a href="https://github.com/ryanfb/latinocr-lat">latinocr-lat</a> - The final training process for lat.traineddata. Includes results from latinocr-lattraining process.</li>
+    <li><a href="https://github.com/ryanfb/latinocr-lattraining">latinocr-lattraining</a> - Rules and tools to deterministically generate all prerequisites for the final training process.</li>
+    <li><a href="https://github.com/ryanfb/latinocr-lattestfodder">latinocr-lattestfodder</a> - Latin page scans and ground truth text for testing OCR accuracy.</li>
+    <li><a href="https://github.com/ryanfb/tesseract_latinocr_docker">tesseract_latinocr_docker</a> - a Dockerfile for building lat.traineddata from scratch.</li>
+  </ul>
+  <img src="training-repo-diagram.png" alt="Training Repo Diagram" title="Training Repo Diagram" width="100%"/>
+</section>
+<br/>
+<section>
+  <h3>Contact</h3>
+  <a href="mailto:ryanfb@gmail.com">e-mail</a> / <a href="https://twitter.com/intent/tweet?text=%40ryanfb%20">twitter</a>
+</section>
