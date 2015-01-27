@@ -28,7 +28,6 @@ title: Latin OCR Development Resources
  * [*OCR of Historical Printings of Latin Texts: Problems, Prospects, Progress*](http://www.cis.uni-muenchen.de/~springmann/papers/2014-04-07-DATeCH2014-Springmann.pdf), Springmann et al., 2014
    * [Talk](http://vimeo.com/99220359), [Slides](http://www.cis.uni-muenchen.de/~springmann/acroases/2014-05-20-Madrid.pdf)
  * [*Improving OCR Accuracy for Classical Critical Editions*](http://link.springer.com/chapter/10.1007/978-3-642-04346-8_17), Boschetti et al., 2009
- * [*Digitizing Latin Incunabula: Challenges, Methods, and Possibilities*](http://digitalhumanities.org/dhq/vol/3/1/000027/000027.html), Rydberg-Cox, 2009
  * [Himeros.eu Latin OCR Trainings for Tesseract](http://www.himeros.eu/), Boschetti, 2008
    * Based on 5 pages of a [1475 incunabular edition of Augustine's *De civitate Dei*](https://archive.org/details/augustinidecivitatedei00jensuoft)
  * [*A Document Recognition System for Early Modern Latin*](http://dl.tufts.edu/catalog/tufts:PB.001.001.00021), Sravana & Crane, 2006
@@ -44,4 +43,5 @@ title: Latin OCR Development Resources
  * [*PoCoTo - an open source system for efficient interactive postcorrection of OCRed historical texts*](http://dl.acm.org/citation.cfm?id=2595197), Vobl et al., 2014
  * [*A Fast Alignment Scheme for Automatic OCR Evaluation of Books*](http://dx.doi.org/10.1109/ICDAR.2011.157), Yalniz & Manmatha, 2011
  * [*OCR and the transformation of the Humanities*](https://impactocr.wordpress.com/2011/10/25/keynote-ocr-and-the-transformation-of-the-humanities-2/), Crane, 2011
+ * [*Digitizing Latin Incunabula: Challenges, Methods, and Possibilities*](http://digitalhumanities.org/dhq/vol/3/1/000027/000027.html), Rydberg-Cox, 2009
  * [*Automatic disambiguation of Latin abbreviations in early modern texts for humanities digital libraries*](http://dl.acm.org/citation.cfm?id=827207), Rydberg-Cox, 2003
