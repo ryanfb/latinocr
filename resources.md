@@ -22,6 +22,10 @@ title: Latin OCR Development Resources
    * 129,000 word forms
  * Springmann et al. canonical lexicon (forthcoming?)
    * 2M word forms, 70,000 lemmata
+ * [CLTK](https://github.com/kylepjohnson/cltk) corpora
+   * [The Latin Library](https://github.com/cltk/latin_corpus_latin_library) - 108MB
+   * [LacusCurtius](https://github.com/cltk/latin_corpus_lacus_curtius) - 28MB (HTML)
+   * [Latin proper names](https://github.com/cltk/latin_proper_names) - ~40K proper names
 
 ## Related projects & other efforts:
 
