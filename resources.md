@@ -26,6 +26,7 @@ title: Latin OCR Development Resources
    * [The Latin Library](https://github.com/cltk/latin_corpus_latin_library) - 108MB
    * [LacusCurtius](https://github.com/cltk/latin_corpus_lacus_curtius) - 28MB (HTML)
    * [Latin proper names](https://github.com/cltk/latin_proper_names) - ~40K proper names
+ * [Pleiades](http://pleiades.stoa.org/) - [22,140 Latin place names](https://github.com/ryanfb/latinocr-lattraining/commit/29b71a03840080e1fc679a8c992001257dcf2a73)
 
 ## Related projects & other efforts:
 
