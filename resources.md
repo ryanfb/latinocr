@@ -20,6 +20,8 @@ title: Latin OCR Development Resources
    * 1M word forms derived from 39,000 lemmata
  * [Spell checking lexicon for OpenOffice/LibreOffice constructed by Karl Zeiler](http://extensions.openoffice.org/en/project/latin-spelling-and-hyphenation-dictionaries)
    * 129,000 word forms
+ * [Latin words in the English Wiktionary](http://dsh.oxfordjournals.org/content/early/2015/03/29/llc.fqv008)
+   * 655,434 word forms for 32,860 roots
  * Springmann et al. canonical lexicon (forthcoming?)
    * 2M word forms, 70,000 lemmata
  * [CLTK](https://github.com/kylepjohnson/cltk) corpora
