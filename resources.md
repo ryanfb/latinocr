@@ -31,6 +31,7 @@ title: Latin OCR Development Resources
    * [Latin proper names](https://github.com/cltk/latin_proper_names) - ~40K proper names
  * [Pleiades](http://pleiades.stoa.org/) - [22,140 Latin place names](https://github.com/ryanfb/latinocr-lattraining/commit/29b71a03840080e1fc679a8c992001257dcf2a73)
  * [Johann Ramminger's Neulateinische Wortliste (Neolatin wordlist)](http://www.neulatein.de/)
+   * "The NLW now contains 19225 lemmas with 1928 Variants [...] The *Sigelliste* of NLW contains 2675 authors and 7402 works abbreviations."
  * [Bibliotecha Augustana](http://www.hs-augsburg.de/~harsch/augustana.html#la)
  * [Musisque Deoque](http://www.mqdq.it/mqdq/home.jsp?lingua=en) and [Poeti d'Italia](http://www.mqdq.it/mqdq/poetiditalia/home.jsp?lingua=en)
  * [Corpus Grammaticorum Latinorum (CGL)](http://kaali.linguist.jussieu.fr/CGL/text.jsp)
