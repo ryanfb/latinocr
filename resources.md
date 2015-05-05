@@ -56,6 +56,7 @@ title: Latin OCR Development Resources
 
 ## Other related links:
 
+ * [McGillivray, Barbara. Methods in Latin Computational Linguistics. Leiden: Brill, 2014.](http://www.worldcat.org/title/methods-in-latin-computational-linguistics/oclc/868040419)
  * [eMOP: Early Modern OCR Project](http://emop.tamu.edu/)
    * [Special Characters, Unicode, and Early Modern English](http://emop.tamu.edu/node/53)
    * [PRImA Research Tools](http://www.primaresearch.org/tools)
