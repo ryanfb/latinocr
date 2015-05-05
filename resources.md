@@ -75,3 +75,4 @@ title: Latin OCR Development Resources
  * Thesaurus linguae Latinae (TLL), De Gruyter
  * [PHI Latin Texts](http://latin.packhum.org/)
  * Bibliotheca Teubneriana Latina (BTL)
+ * [LatinWordNet](http://catalog.elra.info/product_info.php?products_id=1098)
