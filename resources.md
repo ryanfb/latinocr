@@ -24,11 +24,25 @@ title: Latin OCR Development Resources
    * 655,434 word forms for 32,860 roots
  * Springmann et al. canonical lexicon (forthcoming?)
    * 2M word forms, 70,000 lemmata
+ * [Biliotecha Latina IntraText](http://www.intratext.com/LATINA/)
  * [CLTK](https://github.com/kylepjohnson/cltk) corpora
    * [The Latin Library](https://github.com/cltk/latin_corpus_latin_library) - 108MB
    * [LacusCurtius](https://github.com/cltk/latin_corpus_lacus_curtius) - 28MB (HTML)
    * [Latin proper names](https://github.com/cltk/latin_proper_names) - ~40K proper names
  * [Pleiades](http://pleiades.stoa.org/) - [22,140 Latin place names](https://github.com/ryanfb/latinocr-lattraining/commit/29b71a03840080e1fc679a8c992001257dcf2a73)
+ * [Johann Ramminger's Neulateinische Wortliste (Neolatin wordlist)](http://www.neulatein.de/)
+ * [Bibliotecha Augustana](http://www.hs-augsburg.de/~harsch/augustana.html#la)
+ * [Musisque Deoque](http://www.mqdq.it/mqdq/home.jsp?lingua=en) and [Poeti d'Italia](http://www.mqdq.it/mqdq/poetiditalia/home.jsp?lingua=en)
+ * [Corpus Grammaticorum Latinorum (CGL)](http://kaali.linguist.jussieu.fr/CGL/text.jsp)
+ * [Corpus Thomisticum](http://www.corpusthomisticum.org/)
+ * [Index Thomisticus Treebank](http://itreebank.marginalia.it/)
+   * 263,425 tokens
+ * [The PROIEL Treebank](https://github.com/proiel/proiel-treebank)
+   * 146,892 Latin words
+ * [The Ancient Greek and Latin Dependency Treebanks](http://nlp.perseus.tufts.edu/syntax/treebank/latin.html)
+   * 53,143 Latin words
+ * [Integrating Digital Papyrology (IDP)](https://github.com/papyri/idp.data)
+ * See also: [Digital Critical Editions of Texts in Greek and Latin](https://wiki.digitalclassicist.org/Digital_Critical_Editions_of_Texts_in_Greek_and_Latin)
 
 ## Related projects & other efforts:
 
@@ -52,3 +66,10 @@ title: Latin OCR Development Resources
  * [*OCR and the transformation of the Humanities*](https://impactocr.wordpress.com/2011/10/25/keynote-ocr-and-the-transformation-of-the-humanities-2/), Crane, 2011
  * [*Digitizing Latin Incunabula: Challenges, Methods, and Possibilities*](http://digitalhumanities.org/dhq/vol/3/1/000027/000027.html), Rydberg-Cox, 2009
  * [*Automatic disambiguation of Latin abbreviations in early modern texts for humanities digital libraries*](http://dl.acm.org/citation.cfm?id=827207), Rydberg-Cox, 2003
+
+## Non-Free Corpora
+
+ * Library of Latin Texts (LLT), Brepols
+ * Thesaurus linguae Latinae (TLL), De Gruyter
+ * [PHI Latin Texts](http://latin.packhum.org/)
+ * Bibliotheca Teubneriana Latina (BTL)
