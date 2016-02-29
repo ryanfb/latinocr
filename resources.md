@@ -36,6 +36,7 @@ title: Latin OCR Development Resources
  * [Musisque Deoque](http://www.mqdq.it/mqdq/home.jsp?lingua=en) and [Poeti d'Italia](http://www.mqdq.it/mqdq/poetiditalia/home.jsp?lingua=en)
  * [Corpus Grammaticorum Latinorum (CGL)](http://kaali.linguist.jussieu.fr/CGL/text.jsp)
  * [Corpus Thomisticum](http://www.corpusthomisticum.org/)
+ * [Croatiae auctores Latini (CroALa)](https://jtei.revues.org/425)
  * [Index Thomisticus Treebank](http://itreebank.marginalia.it/)
    * 263,425 tokens
  * [The PROIEL Treebank](https://github.com/proiel/proiel-treebank)
