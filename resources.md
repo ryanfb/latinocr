@@ -16,6 +16,8 @@ title: Latin OCR Development Resources
    * Raw OCR output of Rigaudon (Gamera-based process)
  * [David Bamman: 11K Latin Texts](http://www.cs.cmu.edu/~dbamman/latin.html)
    * 3.9GB compressed, 11,261 texts, 1.38 billion tokens, OCR-derived
+ * [CAMENA (Corpus Automatum Multiplex Electorum Neolatinitatis Auctorum)](https://github.com/nevenjovanovic/camena-neolatinlit)
+   * 50M words
  * [Words program of the late William Whitaker](http://archives.nd.edu/whitaker/words.htm)
    * 1M word forms derived from 39,000 lemmata
  * [Spell checking lexicon for OpenOffice/LibreOffice constructed by Karl Zeiler](http://extensions.openoffice.org/en/project/latin-spelling-and-hyphenation-dictionaries)
